@@ -1,0 +1,6 @@
+a=10
+print("Hello World")
+if (a=5)
+  print(5)
+else
+  print(10)
